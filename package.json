@@ -12,6 +12,9 @@
 		"prepublishOnly": "npm run compile",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
+	"bin": {
+		"verify-version-node.sh": "bin/verify-version-node.js"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/package/issues"
