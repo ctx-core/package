@@ -8,18 +8,18 @@ function main() {
 		package_dir: '-p, --package-dir'
 	})
 	if (h__param.help) {
-		help__msg()
+		console.info(_help_msg())
 		process.exit(0)
 	}
 	require('@ctx-core/package').verify__version__node(h__param.package_dir)
 }
-function help__msg() {
+function _help_msg() {
 	return `
 Usage: verify-version-node.js [-p <package-dir>]
 
 Options:
 
--h, --help				This help message
--p, --package-dir	Directory of package (defaults to '.')
+-h, --help        This help message
+-p, --package-dir Directory of package (defaults to '.')
 		`.trim()
 }
