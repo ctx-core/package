@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "3.1.52",
+	"version": "3.1.53",
 	"description": "ctx-core package",
 	"type": "module",
 	"main": "lib.js",
@@ -34,7 +34,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "^3.1.50"
+		"@ctx-core/cli-args": "^3.1.51"
 	},
 	"gitHead": "afcbf74abc02cc107fc7878ec3551a1f5d017900"
 }
