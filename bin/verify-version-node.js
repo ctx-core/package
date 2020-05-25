@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-require = require('esm')(module)
-const { _h__param } = require('@ctx-core/cli-args')
+import { _h__param } from '@ctx-core/cli-args'
+import { verify__version__node } from '../lib'
 main()
 function main() {
 	const h__param = _h__param(process.argv.slice(2), {
@@ -11,7 +11,7 @@ function main() {
 		console.info(_help_msg())
 		process.exit(0)
 	}
-	require('@ctx-core/package').verify__version__node(h__param.package_dir)
+	verify__version__node(h__param.package_dir)
 }
 function _help_msg() {
 	return `
