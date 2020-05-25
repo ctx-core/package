@@ -2,7 +2,6 @@
 	"name": "@ctx-core/package",
 	"version": "3.1.53",
 	"description": "ctx-core package",
-	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
@@ -34,7 +33,8 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "^3.1.51"
+		"@ctx-core/cli-args": "^3.1.51",
+		"esm": "^3.2.25"
 	},
 	"gitHead": "afcbf74abc02cc107fc7878ec3551a1f5d017900"
 }
