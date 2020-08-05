@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 require = require('esm')(module)
-const { _h__param } = require('@ctx-core/cli-args')
+const { _param_h } = require('@ctx-core/cli-args')
 const { verify__version__node } = require('../lib')
 main()
 function main() {
-	const h__param = _h__param(process.argv.slice(2), {
+	const h__param = _param_h(process.argv.slice(2), {
 		help: '-h, --help',
 		package_dir: '-p, --package-dir'
 	})
