@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "3.1.80",
+	"version": "3.1.81",
 	"description": "ctx-core package",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -33,7 +33,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "^4.1.0",
+		"@ctx-core/cli-args": "^4.1.1",
 		"esm": "^3.2.25"
 	},
 	"gitHead": "21949f531c34f4e83e6c3318f29c2262c4308602"
