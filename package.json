@@ -10,7 +10,7 @@
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
 		"prepublishOnly": "npm run compile",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"bin": {
 		"verify-version-node.js": "bin/verify-version-node.js"
@@ -36,5 +36,5 @@
 		"@ctx-core/cli-args": "^4.1.7",
 		"esm": "^3.2.25"
 	},
-	"gitHead": "308a105d03aefddd3c5beccec618c56b76a1db28"
+	"gitHead": "4c5d38924fb4e2bc2c0a8000a3ca044be2ea7720"
 }
