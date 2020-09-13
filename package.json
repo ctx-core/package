@@ -2,39 +2,39 @@
 	"name": "@ctx-core/package",
 	"version": "3.1.88",
 	"description": "ctx-core package",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"bin": {
-		"verify-version-node.js": "bin/verify-version-node.js"
+	"keywords": [
+		"ctx-core",
+		"package"
+	],
+	"homepage": "https://github.com/ctx-core/package#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/package/issues"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/package/issues"
 	},
-	"keywords": [
-		"ctx-core",
-		"package"
-	],
-	"author": "Brian Takita",
 	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/package/issues"
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"bin": {
+		"verify-version-node.js": "bin/verify-version-node.js"
 	},
-	"homepage": "https://github.com/ctx-core/package#readme",
-	"publishConfig": {
-		"access": "public"
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "^4.1.7",
+		"@ctx-core/cli-args": "workspace:*",
 		"esm": "^3.2.25"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "4c5d38924fb4e2bc2c0a8000a3ca044be2ea7720"
 }
