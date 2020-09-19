@@ -1,5 +1,16 @@
 # @ctx-core/package
 
+## 5.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@6.0.0
+
 ## 4.0.1
 
 ### Patch Changes
