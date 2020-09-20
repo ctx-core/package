@@ -1,44 +1,43 @@
 {
-  "name": "@ctx-core/package",
-  "version": "5.0.1",
-  "description": "ctx-core package",
-  "keywords": [
-    "ctx-core",
-    "package"
-  ],
-  "homepage": "https://github.com/ctx-core/package#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/package/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/package/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "./index.ts",
-  "bin": {
-    "verify-version-node.js": "bin/verify-version-node.js"
-  },
-  "scripts": {
-    "build": "npm run clean && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "./node_modules/.bin/tsc -b",
-    "exec": "$@",
-    "prepublishOnly": "npm run compile"
-  },
-  "dependencies": {
-    "@ctx-core/cli-args": "workspace:*",
-    "esm": "^3.2.25",
-    "resolve": "^1.17.0"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "4c5d38924fb4e2bc2c0a8000a3ca044be2ea7720"
+	"name": "@ctx-core/package",
+	"version": "5.0.1",
+	"description": "ctx-core package",
+	"keywords": [
+		"ctx-core",
+		"package"
+	],
+	"homepage": "https://github.com/ctx-core/package#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/package/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/package/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"bin": {
+		"verify-version-node.js": "bin/verify-version-node.js"
+	},
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
+	},
+	"dependencies": {
+		"@ctx-core/cli-args": "workspace:*",
+		"esm": "^3.2.25",
+		"resolve": "^1.17.0"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
