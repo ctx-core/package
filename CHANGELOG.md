@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 5.0.2
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@6.0.2
+
 ## 5.0.1
 
 ### Patch Changes
