@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "5.0.21",
+	"version": "5.0.22",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -32,7 +32,7 @@
 	"dependencies": {
 		"@ctx-core/cli-args": "workspace:^6.1.12",
 		"esm": "^3.2.25",
-		"resolve": "^1.17.0"
+		"resolve": "^1.18.1"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.3"
