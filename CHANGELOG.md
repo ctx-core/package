@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 5.0.24
+
+### Patch Changes
+
+- resolve: ^1.18.1 -> ^1.19.0
+
 ## 5.0.23
 
 ### Patch Changes
