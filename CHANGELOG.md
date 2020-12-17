@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 5.0.35
+
+### Patch Changes
+
+- @ctx-core/cli-args@6.1.24
+
 ## 5.0.34
 
 ### Patch Changes
