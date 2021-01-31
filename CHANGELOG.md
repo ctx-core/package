@@ -1,5 +1,16 @@
 # @ctx-core/package
 
+## 6.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.0.0
+
 ## 5.0.56
 
 ### Patch Changes
