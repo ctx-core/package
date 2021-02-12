@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 6.0.12
+
+### Patch Changes
+
+- resolve: ^1.19.0 -> ^1.20.0
+
 ## 6.0.11
 
 ### Patch Changes
