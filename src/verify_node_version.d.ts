@@ -1,2 +1,2 @@
-export declare function verify_node_version(path__package?: any): void;
-export declare const verify__node_version: typeof verify_node_version;
+export declare function verify_node_version(package_path?: string): void;
+export { verify_node_version as verify__node_version };

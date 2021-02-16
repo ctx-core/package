@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 6.1.0
+
+### Minor Changes
+
+- Package type
+
 ## 6.0.13
 
 ### Patch Changes
