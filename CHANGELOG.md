@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 6.1.14
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.2.11
+
 ## 6.1.13
 
 ### Patch Changes
