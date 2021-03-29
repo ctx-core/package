@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 6.1.16
+
+### Patch Changes
+
+- version bump
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.2.13
+
 ## 6.1.15
 
 ### Patch Changes
