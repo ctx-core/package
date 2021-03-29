@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 6.1.15
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.2.12
+
 ## 6.1.14
 
 ### Patch Changes
