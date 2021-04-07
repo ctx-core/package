@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 6.1.17
+
+### Patch Changes
+
+- typescript: ^4.2.3 -> ^4.2.4
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.2.14
+
 ## 6.1.16
 
 ### Patch Changes
