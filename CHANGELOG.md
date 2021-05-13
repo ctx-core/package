@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 6.1.24
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.1.23
 
 ### Patch Changes
