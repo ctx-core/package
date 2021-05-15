@@ -1,5 +1,16 @@
 # @ctx-core/package
 
+## 6.2.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.3.0
+
 ## 6.1.26
 
 ### Patch Changes
