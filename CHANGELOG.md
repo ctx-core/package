@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 6.2.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.3.2
+
 ## 6.2.1
 
 ### Patch Changes
