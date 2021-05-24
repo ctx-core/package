@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 6.2.3
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.3.10
+
 ## 6.2.2
 
 ### Patch Changes
