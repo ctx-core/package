@@ -1,5 +1,16 @@
 # @ctx-core/package
 
+## 6.3.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.4.0
+
 ## 6.2.3
 
 ### Patch Changes
