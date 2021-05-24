@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 6.3.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.4.1
+
 ## 6.3.0
 
 ### Minor Changes
