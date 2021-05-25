@@ -1,5 +1,16 @@
 # @ctx-core/package
 
+## 6.4.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.5.0
+
 ## 6.3.1
 
 ### Patch Changes
