@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 6.4.1
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@7.5.1
+
 ## 6.4.0
 
 ### Minor Changes
