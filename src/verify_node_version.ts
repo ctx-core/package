@@ -1,6 +1,6 @@
-import { _node_version } from './_node_version'
+import { node_version_ } from './node_version_'
 export function verify_node_version(package_path?:string) {
-	const expected_node_version = _node_version(package_path)
+	const expected_node_version = node_version_(package_path)
 	const actual_node_version = process.versions['node']
 	if (
 		expected_node_version

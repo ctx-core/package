@@ -1,5 +1,18 @@
 # @ctx-core/package
 
+## 7.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@8.0.0
+
 ## 6.4.1
 
 ### Patch Changes

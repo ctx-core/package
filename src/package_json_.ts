@@ -1,7 +1,7 @@
 import resolve from 'resolve'
 import fs from 'fs'
 import type { Package } from './Package'
-export function _package_json(package_path?:string):Package {
+export function package_json_(package_path?:string):Package {
 	let json:string
 	if (package_path) {
 		const resolve_path = resolve.sync(package_path, { basedir: __dirname })
@@ -13,4 +13,7 @@ export function _package_json(package_path?:string):Package {
 		json = fs.readFileSync(`./package.json`).toString()
 	}
 	return JSON.parse(json)
+}
+export {
+	package_json_ as _package_json,
 }
