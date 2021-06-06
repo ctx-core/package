@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 7.0.1
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@8.0.14
+
 ## 7.0.0
 
 ### Major Changes
