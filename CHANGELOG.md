@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 7.0.2
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@8.0.15
+
 ## 7.0.1
 
 ### Patch Changes
