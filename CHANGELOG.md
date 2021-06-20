@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 8.0.5
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@9.0.7
+
 ## 8.0.4
 
 ### Patch Changes
