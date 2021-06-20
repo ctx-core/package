@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 8.0.6
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@9.0.8
+
 ## 8.0.5
 
 ### Patch Changes
