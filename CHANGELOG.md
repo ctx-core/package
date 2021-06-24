@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 8.0.8
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@9.0.11
+
 ## 8.0.7
 
 ### Patch Changes
