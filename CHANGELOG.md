@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 8.0.9
+
+### Patch Changes
+
+- update dependencies
+
 ## 8.0.8
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "8.0.8",
+	"version": "8.0.9",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -30,7 +30,7 @@
 		"prepublishOnly": "npm run clean && npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "workspace:^9.0.12",
+		"@ctx-core/cli-args": "workspace:^9.0.13",
 		"esm": "^3.2.25"
 	},
 	"devDependencies": {
