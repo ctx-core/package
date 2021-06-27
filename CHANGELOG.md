@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 8.0.11
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@9.0.16
+
 ## 8.0.10
 
 ### Patch Changes
