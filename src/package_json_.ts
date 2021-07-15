@@ -1,6 +1,6 @@
 import resolve from 'resolve'
 import fs from 'fs'
-import type { Package } from './Package'
+import type { Package } from './Package.js'
 export function package_json_(package_path?:string):Package {
 	let json:string
 	if (package_path) {

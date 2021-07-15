@@ -1,4 +1,4 @@
-import { package_json_ } from './package_json_'
+import { package_json_ } from './package_json_.js'
 export function node_version_(package_path?:string):void|string {
   const package_json = package_json_(package_path)
   const { engines } = package_json

@@ -1,4 +1,4 @@
-import { package_json_ } from './package_json_'
+import { package_json_ } from './package_json_.js'
 export function package_version_(package_path:string):string {
 	return package_json_(package_path).version
 }
