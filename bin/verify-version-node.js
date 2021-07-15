@@ -1,20 +1,19 @@
 #!/usr/bin/env node
-require = require('esm')(module)
-const { _param_h } = require('@ctx-core/cli-args')
-const { verify__version__node } = require('../lib')
+import { param_r_ } from '@ctx-core/cli-args'
+import { node_version_ } from '../dist'
 main()
 function main() {
-	const h__param = _param_h(process.argv.slice(2), {
+	const param_r = param_r_(process.argv.slice(2), {
 		help: '-h, --help',
 		package_dir: '-p, --package-dir'
 	})
-	if (h__param.help) {
-		console.info(_help_msg())
+	if (param_r.help) {
+		console.info(help_msg_())
 		process.exit(0)
 	}
-	verify__version__node(h__param.package_dir)
+	node_version_(param_r.package_dir)
 }
-function _help_msg() {
+function help_msg_() {
 	return `
 Usage: verify-version-node.js [-p <package-dir>]
 
