@@ -1,6 +1,6 @@
 import { node_version_ } from './node_version_.js'
-export function verify_node_version(package_path?:string) {
-	const expected_node_version = node_version_(package_path)
+export async function verify_node_version(package_path?:string) {
+	const expected_node_version = await node_version_(package_path)
 	const actual_node_version = process.versions['node']
 	if (
 		expected_node_version
