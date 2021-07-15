@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@10.0.2
+
 ## 9.0.1
 
 ### Patch Changes
