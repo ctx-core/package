@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { param_r_ } from '@ctx-core/cli-args'
-import { node_version_ } from '../dist/index.js'
+import { node_version_ } from '../dist/index.mjs'
 main()
 function main() {
 	const param_r = param_r_(process.argv.slice(2), {
