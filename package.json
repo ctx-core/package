@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "9.0.9",
+	"version": "9.0.11",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "workspace:^10.0.9",
+		"@ctx-core/cli-args": "workspace:^10.0.11",
 		"esm": "^3.2.25",
 		"import-meta-resolve": "^1.1.1"
 	},
