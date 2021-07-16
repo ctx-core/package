@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.0.8
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@10.0.8
+
 ## 9.0.7
 
 ### Patch Changes

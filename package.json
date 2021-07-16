@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "9.0.7",
+	"version": "9.0.8",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"main": "./dist/index.js",
+	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"exports": {
@@ -36,7 +36,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "workspace:^10.0.7",
+		"@ctx-core/cli-args": "workspace:^10.0.8",
 		"esm": "^3.2.25",
 		"import-meta-resolve": "^1.1.1"
 	},
