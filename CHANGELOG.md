@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.0.16
+
+### Patch Changes
+
+- typescript: ^4.4.2 -> ^4.4.3
+- Updated dependencies [undefined]
+  - @ctx-core/cli-args@10.0.19
+
 ## 9.0.15
 
 ### Patch Changes
