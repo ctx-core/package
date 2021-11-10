@@ -4,16 +4,16 @@ import resolve from 'resolve'
 const resolve_async = promisify(resolve)
 import type { Package } from './Package.js'
 export async function package_json_(package_path?:string):Promise<Package> {
-	let json:string
+	let directory:string
 	if (package_path) {
 		const resolve_path = (await resolve_async(package_path)) as string
 		const search = `/${package_path}/`
 		const directory_index = resolve_path.lastIndexOf(search) + search.length
-		const directory = resolve_path.slice(0, directory_index)
-		json = (await readFile(`${directory}/package.json`)).toString()
+		directory = resolve_path.slice(0, directory_index)
 	} else {
-		json = (await readFile(`./package.json`)).toString()
+		directory = '.'
 	}
+	const json = (await readFile(`${directory}/package.json`)).toString()
 	return JSON.parse(json)
 }
 export {
