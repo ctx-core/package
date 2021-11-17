@@ -1,6 +1,6 @@
 import { readFile } from 'fs/promises'
-import { promisify } from 'util'
 import resolve from 'resolve'
+import { promisify } from 'util'
 const resolve_async = promisify(resolve)
 import type { Package } from './Package.js'
 export async function package_json_(package_path?:string):Promise<Package> {

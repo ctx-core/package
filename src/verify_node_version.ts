@@ -1,5 +1,5 @@
-import satisfies from 'semver/functions/satisfies.js'
 import { engines_node_ } from './engines_node_.js'
+import satisfies from 'semver/functions/satisfies.js'
 export async function verify_node_version(package_path?:string) {
 	const engines_node = await engines_node_(package_path)
 	const process_versions_node = process.versions.node
