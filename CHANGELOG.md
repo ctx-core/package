@@ -1,5 +1,16 @@
 # @ctx-core/package
 
+## 9.1.2
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+- @types/node: ^16.11.7 -> ^16.11.8
+- @swc/core: ^1.2.108 -> ^1.2.110
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.2
+
 ## 9.1.1
 
 ### Patch Changes
