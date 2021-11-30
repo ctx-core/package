@@ -1,5 +1,25 @@
 # @ctx-core/package
 
+## 9.1.4
+
+### Patch Changes
+
+- @types/node: ^16.11.9 -> ^16.11.10
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.4
+
+## 9.1.3
+
+### Patch Changes
+
+- @types/node: ^16.11.8 -> ^16.11.9
+- @swc/core: ^1.2.110 -> ^1.2.111
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.3
+
 ## 9.1.2
 
 ### Patch Changes
