@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "9.1.5",
+	"version": "9.1.6",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -39,13 +39,13 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "workspace:^11.0.5",
+		"@ctx-core/cli-args": "workspace:^11.0.6",
 		"import-meta-resolve": "^1.1.1",
 		"semver": "^7.3.5"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.116",
+		"@swc/core": "^1.2.117",
 		"@types/node": "^16.11.11",
 		"@types/resolve": "^1.20.1",
 		"@types/semver": "^7.3.9",
