@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.1.9
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.10
+
 ## 9.1.8
 
 ### Patch Changes
