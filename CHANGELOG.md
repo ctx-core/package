@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.1.7
+
+### Patch Changes
+
+- @swc/core: ^1.2.117 -> ^1.2.118
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.7
+
 ## 9.1.6
 
 ### Patch Changes
