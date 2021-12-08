@@ -1,5 +1,12 @@
 # @ctx-core/package
 
+## 9.1.10
+
+### Patch Changes
+
+- fix: import from vite transpiling to browser
+- @types/node: ^16.11.11 -> ^16.11.12
+
 ## 9.1.9
 
 ### Patch Changes
