@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.1.11
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.11
+
 ## 9.1.10
 
 ### Patch Changes
