@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.1.16
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.15
+
 ## 9.1.15
 
 ### Patch Changes
