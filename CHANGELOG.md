@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.1.15
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.14
+
 ## 9.1.14
 
 ### Patch Changes
