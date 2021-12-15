@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "9.1.13",
+	"version": "9.1.14",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -12,20 +12,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/package/issues"
+		"url": "https://github.com/ctx-core/package.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.ts",
 	"exports": {
 		".": {
-			"browser": {
-				"import": "./dist/index.browser.js"
-			},
-			"node": {
-				"import": "./dist/index.js"
-			}
+			"browser": "./dist/index.browser.js",
+			"node": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -41,7 +37,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "workspace:^11.0.12",
+		"@ctx-core/cli-args": "workspace:^11.0.13",
 		"import-meta-resolve": "^1.1.1",
 		"semver": "^7.3.5"
 	},
