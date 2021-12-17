@@ -1,5 +1,14 @@
 # @ctx-core/package
 
+## 9.1.17
+
+### Patch Changes
+
+- @types/node: ^16.11.13 -> ^17.0.0
+- fix: build
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.16
+
 ## 9.1.16
 
 ### Patch Changes
