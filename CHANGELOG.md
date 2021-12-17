@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.1.18
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.17
+
 ## 9.1.17
 
 ### Patch Changes
