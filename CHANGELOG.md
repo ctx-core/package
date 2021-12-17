@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.1.19
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.18
+
 ## 9.1.18
 
 ### Patch Changes
