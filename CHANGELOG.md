@@ -1,5 +1,15 @@
 # @ctx-core/package
 
+## 9.1.25
+
+### Patch Changes
+
+- uvu: ^0.5.2 -> ^0.5.3
+- @types/node: ^17.0.7 -> ^17.0.8
+- resolve: ^1.20.0 -> ^1.21.0
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.22
+
 ## 9.1.24
 
 ### Patch Changes
