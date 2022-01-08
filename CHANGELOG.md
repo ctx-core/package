@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.1.26
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.23
+
 ## 9.1.25
 
 ### Patch Changes
