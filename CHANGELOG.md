@@ -1,5 +1,14 @@
 # @ctx-core/package
 
+## 9.1.29
+
+### Patch Changes
+
+- package.json: exports: update
+- fix: package.json: exports: + default
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.28
+
 ## 9.1.28
 
 ### Patch Changes
