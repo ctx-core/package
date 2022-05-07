@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.1.35
+
+### Patch Changes
+
+- update dependencies
+
 ## 9.1.34
 
 ### Patch Changes
