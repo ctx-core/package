@@ -1,5 +1,12 @@
 # @ctx-core/package
 
+## 9.1.38
+
+### Patch Changes
+
+- @ctx-core/cli-args: ^11.0.36 -> ^11.0.37
+- import-meta-resolve: ^2.0.0 -> ^2.0.1
+
 ## 9.1.37
 
 ### Patch Changes
