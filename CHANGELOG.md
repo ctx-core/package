@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.1.40
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 9.1.39
 
 ### Patch Changes
