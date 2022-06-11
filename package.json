@@ -41,7 +41,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/cli-args": "^11.0.39",
-		"import-meta-resolve": "^2.0.2",
+		"import-meta-resolve": "^2.0.3",
 		"semver": "^7.3.7"
 	},
 	"devDependencies": {
