@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.1.41
+
+### Patch Changes
+
+- resolve: ^1.22.0 -> ^1.22.1
+
 ## 9.1.40
 
 ### Patch Changes
