@@ -36,7 +36,7 @@
 		"exec": "$@",
 		"prepublishOnly": "npm run clean && npm run build && npm run test",
 		"test": "pnpm test-unit && check-dts",
-		"test-unit": "tsm node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
+		"test-unit": "tsx node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
@@ -48,11 +48,11 @@
 		"@types/node": "^18.0.6",
 		"@types/resolve": "^1.20.2",
 		"@types/semver": "^7.3.10",
-		"c8": "^7.11.3",
+		"c8": "^7.12.0",
 		"check-dts": "^0.6.7",
 		"resolve": "^1.22.1",
 		"rimraf": "^3.0.2",
-		"tsm": "^2.2.1",
+		"tsx": "^3.8.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
