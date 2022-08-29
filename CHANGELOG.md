@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.1.43
+
+### Patch Changes
+
+- tsx: ^3.8.2 -> ^3.9.0
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.48
+
 ## 9.1.42
 
 ### Patch Changes
