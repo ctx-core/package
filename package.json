@@ -40,7 +40,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "^11.0.48",
+		"@ctx-core/cli-args": "^11.0.49",
 		"import-meta-resolve": "^2.1.0",
 		"semver": "^7.3.7"
 	},
