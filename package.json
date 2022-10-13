@@ -45,7 +45,7 @@
 		"semver": "^7.3.8"
 	},
 	"devDependencies": {
-		"@types/node": "^18.8.4",
+		"@types/node": "^18.8.5",
 		"@types/resolve": "^1.20.2",
 		"@types/semver": "^7.3.12",
 		"c8": "^7.12.0",
