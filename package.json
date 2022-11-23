@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "9.1.44",
+	"version": "9.1.45",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -41,7 +41,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/cli-args": "^11.0.49",
-		"import-meta-resolve": "^2.1.0",
+		"import-meta-resolve": "^2.2.0",
 		"semver": "^7.3.8"
 	},
 	"devDependencies": {

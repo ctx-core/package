@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.1.45
+
+### Patch Changes
+
+- import-meta-resolve: ^2.1.0 -> ^2.2.0
+
 ## 9.1.44
 
 ### Patch Changes
