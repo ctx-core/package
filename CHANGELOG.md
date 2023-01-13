@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.1.58
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 9.1.57
 
 ### Patch Changes
