@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.1.66
+
+### Patch Changes
+
+- @ctx-core/cli-args: ^11.0.66 -> ^11.0.67
+
 ## 9.1.65
 
 ### Patch Changes
