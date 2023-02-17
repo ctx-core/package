@@ -1,5 +1,12 @@
 # @ctx-core/package
 
+## 9.2.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+- - node_version\_\_verify: aliased by verify_node_version
+
 ## 9.1.69
 
 ### Patch Changes

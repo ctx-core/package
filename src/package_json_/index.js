@@ -2,8 +2,12 @@ import { readFile } from 'fs/promises'
 import resolve from 'resolve'
 import { promisify } from 'util'
 const resolve_async = promisify(resolve)
-/** @type {import(package_json_).package_json_} */
-export const package_json_ = async package_path=>{
+/**
+ * @param package_path{string}
+ * @returns{Promise<import('../_types').Package>}
+ */
+export async function package_json_(package_path) {
+	/** @type {string} */
 	let directory
 	if (package_path) {
 		const resolve_path = await resolve_async(package_path)

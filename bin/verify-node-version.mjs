@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { param_r_ } from '@ctx-core/cli-args'
-import { verify_node_version } from '../lib/index.js'
+import { node_version__verify } from '../lib/index.js'
 main().then()
 async function main() {
 	const param_r = param_r_(process.argv.slice(2), {
@@ -12,7 +12,7 @@ async function main() {
 		process.exit(0)
 	}
 	for (const package_dir of param_r.package_dir_a) {
-		await verify_node_version(`${package_dir}/package.json`)
+		await node_version__verify(`${package_dir}/package.json`)
 	}
 }
 function help_msg_() {
