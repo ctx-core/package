@@ -1,5 +1,15 @@
 # @ctx-core/package
 
+## 9.2.16
+
+### Patch Changes
+
+- @types/node: ^18.14.5 -> ^18.14.6
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/cli-args@11.1.15
+
 ## 9.2.15
 
 ### Patch Changes
