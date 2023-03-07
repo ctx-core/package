@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.2.22
+
+### Patch Changes
+
+- jsdoc: fix: @see {@link ...}
+
 ## 9.2.21
 
 ### Patch Changes

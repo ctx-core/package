@@ -1,5 +1,5 @@
 /**
- * @See {@link https://github.com/mhahn-c/package-json-types}
+ * @see {@link https://github.com/mhahn-c/package-json-types}
  */
 export interface HasEmail {
 	email:string;
