@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "9.2.58",
+	"version": "9.2.59",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -40,7 +40,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/cli-args": "^11.3.17",
+		"@ctx-core/cli-args": "^11.3.18",
 		"import-meta-resolve": "^2.2.2",
 		"semver": "^7.4.0"
 	},
