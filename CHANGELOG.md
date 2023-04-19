@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.2.63
+
+### Patch Changes
+
+- semver: ^7.4.0 -> ^7.5.0
+
 ## 9.2.62
 
 ### Patch Changes
