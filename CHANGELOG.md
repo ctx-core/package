@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.2.69
+
+### Patch Changes
+
+- semver: ^7.5.0 -> ^7.5.1
+- Updated dependencies
+  - @ctx-core/cli-args@11.3.24
+
 ## 9.2.68
 
 ### Patch Changes
