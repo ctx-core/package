@@ -42,7 +42,7 @@
 	"dependencies": {
 		"@ctx-core/cli-args": "^11.3.33",
 		"import-meta-resolve": "^3.0.0",
-		"semver": "^7.5.2"
+		"semver": "^7.5.3"
 	},
 	"devDependencies": {
 		"@types/node": "^20.3.1",
