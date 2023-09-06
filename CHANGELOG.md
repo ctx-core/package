@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.2.93
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/cli-args@11.3.39
+
 ## 9.2.92
 
 ### Patch Changes
