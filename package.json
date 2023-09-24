@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "9.2.96",
+	"version": "9.2.97",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -45,13 +45,13 @@
 		"semver": "^7.5.4"
 	},
 	"devDependencies": {
-		"@types/node": "^20.6.4",
+		"@types/node": "^20.6.5",
 		"@types/resolve": "^1.20.2",
 		"@types/semver": "^7.5.2",
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
 		"resolve": "^1.22.6",
-		"tsx": "^3.12.10",
+		"tsx": "^3.13.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
