@@ -1,5 +1,16 @@
 # @ctx-core/package
 
+## 9.2.109
+
+### Patch Changes
+
+- @types/resolve: ^1.20.3 -> ^1.20.4
+- tsx: ^3.13.0 -> ^3.14.0
+- @types/node: ^20.8.6 -> ^20.8.7
+- @types/semver: ^7.5.3 -> ^7.5.4
+- Updated dependencies
+  - @ctx-core/cli-args@11.3.42
+
 ## 9.2.108
 
 ### Patch Changes
