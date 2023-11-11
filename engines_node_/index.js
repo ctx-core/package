@@ -1,6 +1,6 @@
 import { package_json_ } from '../package_json_/index.js'
 /**
- * @param package_path{string}
+ * @param {string}package_path
  * @returns {Promise<string|void>}
  */
 export async function engines_node_(package_path) {

@@ -3,7 +3,7 @@ import resolve from 'resolve'
 import { promisify } from 'util'
 const resolve_async = promisify(resolve)
 /**
- * @param package_path{string}
+ * @param {string}package_path
  * @returns{Promise<import('../_types').Package>}
  */
 export async function package_json_(package_path) {

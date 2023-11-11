@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { param_r_ } from '@ctx-core/cli-args'
-import { node_version__verify } from '../lib/index.js'
+import { node_version__verify } from '../index.js'
 main().then()
 async function main() {
 	const param_r = param_r_(process.argv.slice(2), {

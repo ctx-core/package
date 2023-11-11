@@ -1,4 +1,4 @@
-import type { Package } from '../_types'
+import type { Package } from '../_types/index.js'
 export declare function package_json_(
 	package_path?:string
 ):Promise<Package>

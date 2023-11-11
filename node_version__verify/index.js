@@ -1,8 +1,7 @@
-import { engines_node_ } from '../engines_node_/index.js'
 import satisfies from 'semver/functions/satisfies.js'
-/** @type {import(node_version__verify).node_version__verify} */
+import { engines_node_ } from '../engines_node_/index.js'
 /**
- * @param package_path{string}
+ * @param {string}package_path
  * @returns {Promise<void>}
  */
 export async function node_version__verify(package_path) {
