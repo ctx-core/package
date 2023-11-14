@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.3.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/cli-args@11.4.3
+
 ## 9.3.2
 
 ### Patch Changes
