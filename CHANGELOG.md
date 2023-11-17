@@ -1,5 +1,14 @@
 # @ctx-core/package
 
+## 9.3.6
+
+### Patch Changes
+
+- @types/node: ^20.9.0 -> ^20.9.1
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/cli-args@11.4.6
+
 ## 9.3.5
 
 ### Patch Changes
