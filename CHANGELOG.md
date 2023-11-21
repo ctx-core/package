@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.3.21
+
+### Patch Changes
+
+- @types/semver: ^7.5.5 -> ^7.5.6
+- @types/node: ^20.9.2 -> ^20.9.3
+- @types/resolve: ^1.20.5 -> ^1.20.6
+
 ## 9.3.20
 
 ### Patch Changes
