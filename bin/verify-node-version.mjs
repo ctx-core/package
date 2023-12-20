@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { param_r_ } from '@ctx-core/cli-args'
+import { param_r_ } from 'ctx-core/cli-args'
 import { node_version__verify } from '../index.js'
 main().then()
 async function main() {
