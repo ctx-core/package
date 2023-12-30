@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.3.73
+
+### Patch Changes
+
+- ctx-core: ^5.7.0 -> ^5.8.0
+
 ## 9.3.72
 
 ### Patch Changes
