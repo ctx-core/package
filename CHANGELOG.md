@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.3.96
+
+### Patch Changes
+
+- import nodejs core modules using node: prefix
+- Updated dependencies
+  - ctx-core@5.18.8
+
 ## 9.3.95
 
 ### Patch Changes

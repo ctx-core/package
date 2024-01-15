@@ -1,4 +1,4 @@
-import { readFile } from 'fs/promises'
+import { readFile } from 'node:fs/promises'
 import resolve from 'resolve'
 import { promisify } from 'util'
 const resolve_async = promisify(resolve)
