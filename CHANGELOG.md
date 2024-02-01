@@ -1,5 +1,11 @@
 # @ctx-core/package
 
+## 9.3.141
+
+### Patch Changes
+
+- @types/node: ^20.11.14 -> ^20.11.16
+
 ## 9.3.140
 
 ### Patch Changes

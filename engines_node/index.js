@@ -1,4 +1,4 @@
-import { package_json_ } from '../package_json_/index.js'
+import { package_json_ } from '../package_json/index.js'
 /**
  * @param {string}package_path
  * @returns {Promise<string|void>}
