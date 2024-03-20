@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.3.174
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 9.3.173
 
 ### Patch Changes
