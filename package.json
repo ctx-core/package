@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/package",
-	"version": "9.3.203",
+	"version": "9.3.204",
 	"description": "ctx-core package",
 	"keywords": [
 		"ctx-core",
@@ -56,7 +56,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^7.2.9",
+		"ctx-core": "^7.2.10",
 		"import-meta-resolve": "^4.1.0",
 		"semver": "^7.6.2"
 	},
@@ -67,7 +67,7 @@
 		"c8": "^9.1.0",
 		"check-dts": "^0.7.2",
 		"resolve": "^1.22.8",
-		"tsx": "^4.10.2",
+		"tsx": "^4.10.4",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
