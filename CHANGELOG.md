@@ -1,5 +1,13 @@
 # @ctx-core/package
 
+## 9.3.218
+
+### Patch Changes
+
+- @types/node: ^20.14.8 -> ^20.14.9
+- Updated dependencies
+  - ctx-core@7.2.25
+
 ## 9.3.217
 
 ### Patch Changes
